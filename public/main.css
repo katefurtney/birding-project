@@ -183,7 +183,7 @@ table td, table th {
 }
 
 table td.table__year {
-    text-align: center
+    text-align: right
 }
 
 table tr:nth-child(odd){
