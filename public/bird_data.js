@@ -1,10 +1,51 @@
+const filterByDate = false
+const filterByLocation = false
+let tableData
 
-fetch('/api/sightings')
-    .then(response => response.json())
-    .then(data => {
-        console.log(data)
+function dateFilterHandler() {
+    renderTable(tableData, !filterByDate, filterByLocation)
+}
 
-        const table_element = document.getElementById("bird_data");
+function locationFilterHandler() {
+    renderTable(tableData, filterByDate, !filterByLocation)
+}
+
+function renderTable(data, filterByDate, filterByLocation) {
+    if (filterByLocation) 
+        {data.sort((a, b) => {
+            if (a.country > b.country) {return 1}
+            else if (a.country < b.country) {return -1}
+            else if (a.country === b.country) {
+                if(a.state > b.state) {return 1}
+                else if (a.state < b.state) {return -1}
+                else if (a.state === b.state) {
+                    if (a.city > b.city) {return 1}
+                    else if (a.city < b.city) {return -1}
+                    else {return 0}
+                }
+            }
+        })}
+    
+    if (filterByDate)
+    {data.sort((a,b) => {
+        if (a.year < b.year) {return 1}
+        else if (a.year > b.year) {return -1}
+        else if (a.year === b.year) {
+            if(a.month < b.month) {return 1}
+            else if (a.month > b.month) {return -1}
+            else if (a.month === b.month) {
+                if (a.day < b.day) {return 1}
+                else if (a.day > b.day) {return -1}
+                else if (a.day === b.day) {
+                    if (a.species > b.species) {return 1}
+                    else if (a.species < b.species) {return -1}
+                    else {return 0}
+                }
+            }
+        }
+    })}
+
+    const table_element = document.getElementById("bird_data");
         //add headers to result
         let result = `<tr>
                         <th>Species</th>
@@ -47,6 +88,14 @@ fetch('/api/sightings')
         })
 
         table_element.innerHTML = result;
+}
+
+fetch('/api/sightings')
+    .then(response => response.json())
+    .then(data => {
+        console.log(data)
+        tableData = data    
+        renderTable(data, false, false) 
     })
 
     function getMonthName(monthNumber) {
