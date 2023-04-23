@@ -52,7 +52,7 @@ function renderTable(data, /*sortByDate, sortByLocation,*/ year) {
     //     })
     // }
 
-    if (year) {
+    if (year !== 'all') {
         if (year === 'pre 2019') {
             data = data.filter((sighting) => sighting.year == null);
         } else {
