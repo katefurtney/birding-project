@@ -3,7 +3,7 @@ const express = require('express')
 const app = express()
 const bird = require('./controller/bird')
 const sighting = require('./controller/sighting')
-const port = 3000
+const port = process.env.PORT || 3000
 
 app.use(express.static('public'))
 
