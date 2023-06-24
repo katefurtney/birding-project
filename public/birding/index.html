@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <title>Kate Furtney</title>
+  <link href="/main.css" rel="stylesheet" media="screen" />
+  <script src="/bird_data.js"></script>
+</head>
+
+<body>
+  <header>
+    <h1>Kate's Birding Blog</h1>
+  </header>
+
+  <div id="wrap">
+    <nav>
+      <ul>
+        <li><a href="/">about</a></li>
+        <li><a href="/birding">birding</a></li>
+      </ul>
+    </nav>	
+
+    <main class="lifelist">
+      <h1>My Life List</h1>
+      <aside>
+        <h2>About Me</h2>
+        <p><img src="/images/kate.jpg" width="150" height="150" alt="Kate"/>Hi I’m Kate!  I created this page so I could share my birding experiences, and keep track of the birds I see.  I started birding in 2019, and have seen more than 100 bird species!  In the future, I hope to travel to more provinces and countries to add to my growing life list. </p>
+      </aside>
+
+      <section>
+        <h2>What is birding?</h2>
+        <!-- <img src="/images/birding_walkway.jpg" width="150" height="200" alt="Birding in the woods"/> -->
+        <p>You may have heard of the term: birdwatching.  Birding is similar to birdwatching, though the terms differ slightly.  Birding is the act of going out into nature to observe birds, whereas birdwatching is simply the act of watching birds.  Still confused?  Birdwatching is a passive activity, one you can do through your kitchen window.  Birding is birdwatching’s rugged older brother: the one who gets up before dawn to hike to a good location with a pair of binoculars and a field guide.  Birding is an active activity, and some birders can be quite competitive, attempting to see more birds in a day, or a season than others. </p>
+        <h2>What is a life list?</h2>
+        <p>A life list is a list that birders use to keep track of the date and location the first time they see a species of bird in their lives, also known as a lifer.  This tiger heron peeking out from a mangrove tree was a lifer for me, as well as the yellow-throated toucan and green heron.  In order to count as a lifer, a bird has to be seen; most birders agree that hearing a bird doesn’t count!  A life list can be as specific as you want, recording the exact date and location a species of bird was seen, or more general, recording month or year and country.  I have provided my personal life list below, with the year and country that I first saw each species. </p>
+        <img src="/images/Bare-throated_Tiger_Heron_Costa_Rica.jpg" width="200" height="150" alt="Tiger Heron"/>
+        <img src="/images/Yellow-throated_Toucan_Costa_Rica.jpeg" width="200" height="150" alt="Yellow-throated Toucan"/>
+        <img src="/images/Green_Heron_Costa_Rica.jpg" width="200" height="150" alt="Green Heron"/>
+      </section>
+
+      <div class="stats">
+        <!-- <h2>Birding Statistics</h2> -->
+        <div id="stats"></div>
+      </div>
+
+      <!-- <button onclick="dateSorterHandler()">Sort By Date</button>
+      <button onclick="locationSorterHandler()">Sort By Location</button> -->
+      <div class="dropdown">
+        <button class="dropbtn">Filter by year</button>
+        <div class="dropdown-content">
+          <button onclick="filterByYear('all')">All</button>
+          <button onclick="filterByYear('2023')">2023</button>
+          <button onclick="filterByYear('2022')">2022</button>
+          <button onclick="filterByYear('2021')">2021</button>
+          <button onclick="filterByYear('2020')">2020</button>
+          <button onclick="filterByYear('2019')">2019</button>
+          <button onclick="filterByYear('pre 2019')">pre 2019</button>
+        </div>
+      </div>
+      <table id="bird_data">
+        <!-- table input with JS file bird_data.js -->
+      </table>
+    </main>
+  </div>
+
+  <footer>
+    <ul>
+      <li><a href="mailto:katefurtney@gmail.com">email</a></li>
+      <li><a href="https://ebird.org/profile/MTc0MDE4OA/world">eBird</a></li>
+    </ul>
+    </footer>
+</body>
+</html>

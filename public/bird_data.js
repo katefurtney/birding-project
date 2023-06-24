@@ -103,14 +103,25 @@ function renderTable(data, /*sortByDate, sortByLocation,*/ year) {
     })
 
     table_element.innerHTML = result;
-}
+
+    // update stats - get number of rows in table
+    const statsCount = data.length;
+    const stats_element = document.getElementById("stats");
+    let stats;
+    if (year === 'all')
+        stats = `<h2>Total lifers to date: ${data.length}</h2>`;
+    else
+        stats = `<h2>Total lifers for ${year}: ${data.length}</h2>`;
+    stats_element.innerHTML = stats;
+    
+}//end renderTable
 
 fetch('/api/sightings')
     .then(response => response.json())
     .then(data => {
         console.log(data)
         tableData = data
-        renderTable(data/*, true, false*/)
+        renderTable(data/*, true, false*/, 'all')
     })
 
 function getMonthName(monthNumber) {
