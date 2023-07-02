@@ -126,6 +126,15 @@ aside img {
     margin-right: 2%;
 }
 
+.dropdown {
+    width: 100%;
+}
+
+.stats {
+    text-align: left;
+    float: left;
+}
+
 .about img {
     margin-top: 0;
 }
