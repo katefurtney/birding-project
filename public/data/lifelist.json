@@ -1,0 +1,1172 @@
+[
+  {
+    "species": "Canada Goose",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Mute Swan",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "Stratford",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Trumpeter Swan",
+    "day": 4,
+    "month": 10,
+    "year": 2021,
+    "city": "Scarborough",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Tundra Swan",
+    "day": 26,
+    "month": 3,
+    "year": 2022,
+    "city": "Cambridge",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Wood Duck",
+    "day": null,
+    "month": null,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "American Black Duck",
+    "day": 15,
+    "month": 7,
+    "year": 2022,
+    "city": "Haliburton",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Mallard",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Blue-winged Teal",
+    "day": 6,
+    "month": 10,
+    "year": 2020,
+    "city": "Mitchell",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Northern Shoveler",
+    "day": 6,
+    "month": 10,
+    "year": 2020,
+    "city": "Mitchell",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Green-winged Teal",
+    "day": 6,
+    "month": 10,
+    "year": 2020,
+    "city": "Mitchell",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Bufflehead",
+    "day": 6,
+    "month": 11,
+    "year": 2021,
+    "city": "Emsdale",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Common Goldeneye",
+    "day": 6,
+    "month": 12,
+    "year": 2020,
+    "city": "Cambridge",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Hooded Merganser",
+    "day": 8,
+    "month": 2,
+    "year": 2022,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Common Merganser",
+    "day": 17,
+    "month": 10,
+    "year": 2020,
+    "city": "Bruce Peninsula",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Ruddy Duck",
+    "day": 23,
+    "month": 4,
+    "year": 2022,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Wild Turkey",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Common Loon",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Pied-billed Grebe",
+    "day": 24,
+    "month": 4,
+    "year": 2022,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Brown Pelican",
+    "day": 25,
+    "month": 1,
+    "year": 2020,
+    "city": "Fort Myers",
+    "state": "Florida",
+    "country": "United States"
+  },
+  {
+    "species": "Double-crested Cormorant",
+    "day": 15,
+    "month": 9,
+    "year": 2020,
+    "city": "Kettle Point",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Great Blue Heron",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Great Egret",
+    "day": 17,
+    "month": 10,
+    "year": 2019,
+    "city": "LaSalle",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Cattle Egret",
+    "day": 22,
+    "month": 12,
+    "year": 2019,
+    "city": "Quepos",
+    "state": "Puntarenas",
+    "country": "Costa Rica"
+  },
+  {
+    "species": "Green Heron",
+    "day": 26,
+    "month": 12,
+    "year": 2019,
+    "city": "Quepos",
+    "state": "Puntarenas",
+    "country": "Costa Rica"
+  },
+  {
+    "species": "Turkey Vulture",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Osprey",
+    "day": 7,
+    "month": 8,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Bald Eagle",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Northern Harrier",
+    "day": null,
+    "month": null,
+    "year": 2019,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Cooper's Hawk",
+    "day": null,
+    "month": null,
+    "year": 2019,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Red-tailed Hawk",
+    "day": null,
+    "month": 8,
+    "year": 2020,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "American Kestrel",
+    "day": 30,
+    "month": 9,
+    "year": 2020,
+    "city": "LaSalle",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Merlin",
+    "day": null,
+    "month": null,
+    "year": 2020,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Sandhill Crane",
+    "day": 24,
+    "month": 9,
+    "year": 2020,
+    "city": "Cambridge",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Killdeer",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Spotted Sandpiper",
+    "day": 15,
+    "month": 7,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Lesser Yellowlegs",
+    "day": 6,
+    "month": 10,
+    "year": 2020,
+    "city": "Mitchell",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Long-billed Dowitcher",
+    "day": 6,
+    "month": 10,
+    "year": 2020,
+    "city": "Mitchell",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Franklin's Gull",
+    "day": 14,
+    "month": 10,
+    "year": 2020,
+    "city": "Belle River",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Ring-billed Gull",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "Ipperwash",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Herring Gull",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "Ipperwash",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Caspian Tern",
+    "day": 9,
+    "month": 7,
+    "year": 2022,
+    "city": "Ipperwash",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Rock Pigeon",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Mourning Dove",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Yellow-billed Cuckoo",
+    "day": 6,
+    "month": 6,
+    "year": 2021,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Black-billed Cuckoo",
+    "day": 22,
+    "month": 5,
+    "year": 2021,
+    "city": "Ipperwash",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Great Horned Owl",
+    "day": 30,
+    "month": 9,
+    "year": 2020,
+    "city": "LaSalle",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Chimney Swift",
+    "day": 17,
+    "month": 10,
+    "year": 2019,
+    "city": "LaSalle",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Ruby-throated Hummingbird",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Belted Kingfisher",
+    "day": null,
+    "month": 9,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Red-bellied Woodpecker",
+    "day": 24,
+    "month": 4,
+    "year": 2022,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Downy Woodpecker",
+    "day": 13,
+    "month": 12,
+    "year": 2019,
+    "city": "Hamilton",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Northern Flicker",
+    "day": 3,
+    "month": 5,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Pileated Woodpecker",
+    "day": 9,
+    "month": 9,
+    "year": 2020,
+    "city": "Bruce Peninsula",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Eastern Wood-Pewee",
+    "day": 15,
+    "month": 5,
+    "year": 2022,
+    "city": "Sylvan",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Eastern Phoebe",
+    "day": 23,
+    "month": 9,
+    "year": 2020,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Great Crested Flycatcher",
+    "day": 9,
+    "month": 7,
+    "year": 2022,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Great Kiskadee",
+    "day": 26,
+    "month": 12,
+    "year": 2019,
+    "city": "Quepos",
+    "state": "Puntarenas",
+    "country": "Costa Rica"
+  },
+  {
+    "species": "Eastern Kingbird",
+    "day": 27,
+    "month": 7,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Warbling Vireo",
+    "day": 13,
+    "month": 8,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Red-eyed Vireo",
+    "day": 5,
+    "month": 7,
+    "year": 2022,
+    "city": "Haliburton",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Blue Jay",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "American Crow",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Common Raven",
+    "day": 10,
+    "month": 7,
+    "year": 2020,
+    "city": "Haliburton",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Purple Martin",
+    "day": 6,
+    "month": 6,
+    "year": 2021,
+    "city": "Ipperwash",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Tree Swallow",
+    "day": 24,
+    "month": 7,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Northern Rough-winged Swallow",
+    "day": 10,
+    "month": 6,
+    "year": 2022,
+    "city": "Lakeshore",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Bank Swallow",
+    "day": 6,
+    "month": 6,
+    "year": 2021,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Barn Swallow",
+    "day": 3,
+    "month": 5,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Black-capped Chickadee",
+    "day": 15,
+    "month": 3,
+    "year": 2020,
+    "city": "Emsdale",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Tufted Titmouse",
+    "day": 6,
+    "month": 6,
+    "year": 2021,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Red-breasted Nuthatch",
+    "day": 15,
+    "month": 3,
+    "year": 2020,
+    "city": "Emsdale",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "White-breasted Nuthatch",
+    "day": 15,
+    "month": 3,
+    "year": 2020,
+    "city": "Emsdale",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "House Wren",
+    "day": 23,
+    "month": 5,
+    "year": 2020,
+    "city": "Warwick",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Winter Wren",
+    "day": 5,
+    "month": 3,
+    "year": 2022,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Marsh Wren",
+    "day": 30,
+    "month": 9,
+    "year": 2021,
+    "city": "Barrie",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Golden-crowned Kinglet",
+    "day": 14,
+    "month": 10,
+    "year": 2020,
+    "city": "Belle River",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Ruby-crowned Kinglet",
+    "day": 17,
+    "month": 10,
+    "year": 2020,
+    "city": "Bruce Peninsula",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Eastern Bluebird",
+    "day": 6,
+    "month": 6,
+    "year": 2021,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Hermit Thrush",
+    "day": 9,
+    "month": 10,
+    "year": 2021,
+    "city": "Bruce Peninsula",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "American Robin",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "Forest",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Gray Catbird",
+    "day": 11,
+    "month": 8,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "European Starling",
+    "day": 13,
+    "month": 12,
+    "year": 2019,
+    "city": "Hamilton",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Cedar Waxwing",
+    "day": null,
+    "month": 8,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Northern Parula",
+    "day": 3,
+    "month": 7,
+    "year": 2022,
+    "city": "Haliburton",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Yellow Warbler",
+    "day": 30,
+    "month": 7,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Yellow-rumped Warbler",
+    "day": 17,
+    "month": 5,
+    "year": 2020,
+    "city": "Haliburton",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Black-throated Green Warbler",
+    "day": 15,
+    "month": 5,
+    "year": 2022,
+    "city": "Sylvan",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Palm Warbler",
+    "day": 8,
+    "month": 5,
+    "year": 2022,
+    "city": "Ipperwash",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Pine Warbler",
+    "day": 29,
+    "month": 9,
+    "year": 2020,
+    "city": "LaSalle",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "American Redstart",
+    "day": 9,
+    "month": 7,
+    "year": 2022,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Common Yellowthroat",
+    "day": 29,
+    "month": 9,
+    "year": 2020,
+    "city": "LaSalle",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Canada Warbler",
+    "day": 22,
+    "month": 5,
+    "year": 2021,
+    "city": "Ipperwash",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Eastern Towhee",
+    "day": 22,
+    "month": 5,
+    "year": 2021,
+    "city": "Ipperwash",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Chipping Sparrow",
+    "day": 30,
+    "month": 4,
+    "year": 2021,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Field Sparrow",
+    "day": 9,
+    "month": 7,
+    "year": 2022,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Song Sparrow",
+    "day": null,
+    "month": null,
+    "year": 2020,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Lincoln's Sparrow",
+    "day": 22,
+    "month": 9,
+    "year": 2020,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "White-throated Sparrow",
+    "day": 30,
+    "month": 9,
+    "year": 2021,
+    "city": "Barrie",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "White-crowned Sparrow",
+    "day": 17,
+    "month": 10,
+    "year": 2020,
+    "city": "Bruce Peninsula",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Dark-eyed Junco",
+    "day": 7,
+    "month": 11,
+    "year": 2020,
+    "city": "Camlachie",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Scarlet Tanager",
+    "day": 6,
+    "month": 6,
+    "year": 2021,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Northern Cardinal",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "Forest",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Rose-breasted Grosbeak",
+    "day": 30,
+    "month": 7,
+    "year": 2020,
+    "city": "Camlachie",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Indigo Bunting",
+    "day": 15,
+    "month": 5,
+    "year": 2022,
+    "city": "Sylvan",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Red-winged Blackbird",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "Forest",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Common Grackle",
+    "day": null,
+    "month": null,
+    "year": 2019,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Brown-headed Cowbird",
+    "day": null,
+    "month": null,
+    "year": 2019,
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Baltimore Oriole",
+    "day": null,
+    "month": null,
+    "year": null,
+    "city": "Forest",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "House Finch",
+    "day": 7,
+    "month": 11,
+    "year": 2020,
+    "city": "Camlachie",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Pine Siskin",
+    "day": 6,
+    "month": 11,
+    "year": 2021,
+    "city": "Emsdale",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "American Goldfinch",
+    "day": 27,
+    "month": 4,
+    "year": 2020,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "House Sparrow",
+    "day": null,
+    "month": null,
+    "year": 2019,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Bare-throated Tiger Heron",
+    "day": 27,
+    "month": 12,
+    "year": 2019,
+    "city": "Quepos",
+    "state": "Puntarenas",
+    "country": "Costa Rica"
+  },
+  {
+    "species": "Chestnut-mandibled Toucan",
+    "day": 25,
+    "month": 12,
+    "year": 2019,
+    "city": "Quepos",
+    "state": "Puntarenas",
+    "country": "Costa Rica"
+  },
+  {
+    "species": "Barred Owl",
+    "day": 18,
+    "month": 7,
+    "year": 2022,
+    "city": "Utterson",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Snow Bunting",
+    "day": 24,
+    "month": 12,
+    "year": 2022,
+    "city": "Komoka",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Horned Lark",
+    "day": 2,
+    "month": 4,
+    "year": 2023,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Ring-necked Duck",
+    "day": 2,
+    "month": 4,
+    "year": 2023,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "American Coot",
+    "day": 2,
+    "month": 4,
+    "year": 2023,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Lesser Scaup",
+    "day": 2,
+    "month": 4,
+    "year": 2023,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Redhead",
+    "day": 2,
+    "month": 4,
+    "year": 2023,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Gadwall",
+    "day": 2,
+    "month": 4,
+    "year": 2023,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "American Wigeon",
+    "day": 2,
+    "month": 4,
+    "year": 2023,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Cliff Swallow",
+    "day": 6,
+    "month": 5,
+    "year": 2023,
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Blackburnian Warbler",
+    "day": 19,
+    "month": 5,
+    "year": 2023,
+    "city": "Haliburton",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Bay-breasted Warbler",
+    "day": 21,
+    "month": 5,
+    "year": 2023,
+    "city": "Haliburton",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Chestnut-sided Warbler",
+    "day": 21,
+    "month": 5,
+    "year": 2023,
+    "city": "Haliburton",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Blue-gray Gnatcatcher",
+    "day": 4,
+    "month": 6,
+    "year": 2023,
+    "city": "Grand Bend",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Ruffed Grouse",
+    "day": 22,
+    "month": 6,
+    "year": 2023,
+    "city": "Algonquin Park",
+    "state": "Ontario",
+    "country": "Canada"
+  },
+  {
+    "species": "Yellow-bellied Sapsucker",
+    "day": 2,
+    "month": 7,
+    "year": 2023,
+    "city": "Haliburton",
+    "state": "Ontario",
+    "country": "Canada"
+  }
+]

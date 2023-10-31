@@ -1,3 +1,5 @@
+import data from '../public/data/lifelist.json'
+
 // const sortByDate = false
 // const sortByLocation = false
 let tableData
@@ -116,13 +118,17 @@ function renderTable(data, /*sortByDate, sortByLocation,*/ year) {
     
 }//end renderTable
 
-fetch('/api/sightings')
-    .then(response => response.json())
-    .then(data => {
-        console.log(data)
-        tableData = data
-        renderTable(data/*, true, false*/, 'all')
-    })
+// Heroku
+// fetch('/api/sightings')
+//     .then(response => response.json())
+//     .then(data => {
+//         console.log(data)
+//         tableData = data
+//         renderTable(data/*, true, false*/, 'all')
+//     })
+
+// get table as JSON
+tableData = data;
 
 function getMonthName(monthNumber) {
     const date = new Date();
